@@ -60,7 +60,7 @@ $ ./step slides.txt
 
 <img width="540" alt="A terminal window showing a single slide" src="https://github.com/user-attachments/assets/abc10410-3084-4fd3-9f3b-72a63b98d367" />
 
-- Separator character is not displayed.
+- Separator characters are not displayed.
 - Same character elswhere is shown.
 - Height adapts to terminal size.
 - Press _ENTER_ for next slide.
