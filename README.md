@@ -2,7 +2,7 @@
 A simple slide stepper — to present text in a terminal.
 
 ## Build the tool
-On Mac or Linux.
+On Mac or Linux, compile [step.c](step.c).
 
 ```console
 $ gcc -o step step.c
