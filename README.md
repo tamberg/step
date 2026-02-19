@@ -1,5 +1,5 @@
 # Step
-A simple slide stepper.
+A simple slide stepper, to present text in your terminal.
 
 ## Build the tool
 On Mac or Linux.
