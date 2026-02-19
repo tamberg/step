@@ -51,6 +51,8 @@ A single text file with slides separated by '+'.
 ## Present slides.txt
 In a terminal window.
 
+> Consider increasing the font size.
+
 ```console
 $ ./step slides.txt
 ```
