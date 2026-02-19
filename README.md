@@ -9,7 +9,7 @@ $ gcc -o step step.c
 ```
 
 ## Prepare slides.txt
-A single text file with slides separated by '+'.
+Create a single text file with slides separated by '+', e.g.
 
 ```console
 +
@@ -49,10 +49,13 @@ A single text file with slides separated by '+'.
 ```
 
 ## Present slides.txt
-In a terminal window.
+Step through the slides, in a terminal window.
 
 > Consider increasing the font size.
 
 ```console
 $ ./step slides.txt
 ```
+
+<img width="540" alt="A terminal window showing a single slide" src="https://github.com/user-attachments/assets/abc10410-3084-4fd3-9f3b-72a63b98d367" />
+
