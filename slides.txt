@@ -1,0 +1,34 @@
++
+
+   # Hello
+
+   - I am @tamberg
+   - Presenting slides
+   - Using ./step file [dt]
+
++
+
+   # Simplicity
+
+   - This tool is minimal
+   - Some lines of code
+   - And a text file
+
++
+
+   # ASCII-Art
+
+   +---+    +---+
+   | A |--->| B |
+   +---+    +---+
+
++
+
+   # Thanks
+
+   - Seems to work
+   - Get in touch :)
+
+     @tamberg@quite.social
+
++
