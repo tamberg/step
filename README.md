@@ -9,7 +9,7 @@ $ gcc -o step step.c
 ```
 
 ## Prepare slides.txt
-Create a single text file with slides separated by '+', e.g.
+Create a single text file with slides separated by '+', e.g. [slides.txt](slides.txt)
 
 ```console
 +
