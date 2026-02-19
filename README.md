@@ -6,6 +6,7 @@ On Mac or Linux, compile [step.c](step.c).
 
 ```console
 $ gcc -o step step.c
+$ ./step
 ```
 
 ## Prepare slides.txt
